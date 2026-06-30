@@ -41,36 +41,30 @@ Train-Test Split
 Model Training
 Model Evaluation
 Prediction
-Machine Learning Algorithm
 
-(Add your algorithm)
+Workflow
+Data Collection
+Data Preprocessing
+Feature Scaling & Selection
+Model Training
+Performance Evaluation
+SHAP Explainability
 
-Example:
-
-Random Forest Classifier
-
-or
-
-Support Vector Machine
-
-or
-
+Models Used
+Random Forest
+Gradient Boosting
+Support Vector Machine (SVM)
 Logistic Regression
-Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1 Score
-Confusion Matrix
+Multilayer Perceptron (MLP)
+
 Results
-
-The model successfully predicts Parkinson's Disease based on voice features with high accuracy.
-
-(Add your accuracy)
-
-Example:
-
-Accuracy: 94.8%
+Model Accuracy
+Random Forest 94.87%
+Logistic Regression 92.31%
+SVM 89.74%
+MLP 89.74%
+Gradient Boosting 84.62%
+Random Forest achieved the best overall performance.
 
 Future Improvements
 Deep Learning Model
