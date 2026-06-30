@@ -58,6 +58,7 @@ Logistic Regression
 Multilayer Perceptron (MLP)
 
 Results
+
 Model Accuracy
 Random Forest 94.87%
 Logistic Regression 92.31%
@@ -67,13 +68,9 @@ Gradient Boosting 84.62%
 Random Forest achieved the best overall performance.
 
 Future Improvements
+
 Deep Learning Model
 Web Application
 Mobile Application
 Real-time Voice Detection
 Deployment using Flask or Streamlit
-Author
-
-Nishvika Teja Reddy
-
-B.Tech Artificial Intelligence & Machine Learning
